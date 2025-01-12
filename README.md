@@ -1,10 +1,14 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/38d5854392d69b79a22dfe7a0a39fd84519618d2e5e035d49da7f193d1669365/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"  />
 </div>
-
+<div align="center">
+  <a href="https://www.github.com/iamtun" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/iamtun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamtun.iamtun&"  />
+</div>
 <h3 align="left">👩‍💻  About Me</h3>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Le Tuan. You can call me "Tuna".
+Hi 👋 My name is Le Tuan. You can call me "Tuna".
 ========================================================================================================================================================
 
 Frontend Developer
@@ -17,12 +21,6 @@ I am a Front-End Developer with 2 years of experience. I am mainly responsible f
 * ✉️  You can contact me at [tuanle.workse@gmail.com](mailto:tuanle.workse@gmail.com)
 * 🧠  I'm learning to Fullstack developer
 * ⚡  In my free time I read a book or overthinking
-
-<div align="left">
-  <a href="https://www.github.com/iamtun" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamtun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamtun.iamtun&"  />
-</div>
 
 ### Skills
 
@@ -40,6 +38,12 @@ src="https://img.shields.io/github/followers/iamtun?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamtun"><img src="https://github-readme-stats.vercel.app/api?username=iamtun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamtun's GitHub stats" /></a>
+<div style="display: flex; gap: 16px;">
+  <div>
+    <a href="http://www.github.com/iamtun"><img src="https://github-readme-stats.vercel.app/api?username=iamtun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamtun's GitHub stats" /></a>
+  </div>
 
-<a href="https://github.com/iamtun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div>
+  <a href="https://github.com/iamtun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+</div>
