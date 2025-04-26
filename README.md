@@ -40,8 +40,4 @@ In early 2025, I expanded into back-end development with NestJS, TypeORM, and My
   <div>
     <a href="http://www.github.com/iamtun"><img src="https://github-readme-stats.vercel.app/api?username=iamtun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamtun's GitHub stats" /></a>
   </div>
-
-<div>
-  <a href="https://github.com/iamtun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
 </div>
