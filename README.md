@@ -13,8 +13,9 @@ Hi 👋 My name is Le Tuan. You can call me "Tuna".
 
 Frontend Developer
 ------------------
+Front-end Developer with 2 years of experience, specializing in web applications using ReactJS, NextJS, and CMS platforms like Strapi, Appsmith. Strong SEO background (sitemap, structured data, JSON-LD) and experience customizing libraries (mathml-to-latex, ckeditor5).
 
-I am a Front-End Developer with 2 years of experience. I am mainly responsible for developing web applications in the education field. I have knowledge of HTML, CSS, JS, and some frameworks such as ReactJS and NextJS. I participate in building CMS with Strapi and Appsmith to support effective content management.
+In early 2025, I expanded into back-end development with NestJS, TypeORM, and MySQL to strengthen my full-stack skills.
 
 * 🌍  I'm based in HCM city, VietNam
 * 🖥️  See my portfolio at [tuna.dev](http://tunadev.software/)
